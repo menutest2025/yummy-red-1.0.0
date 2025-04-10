@@ -20,12 +20,9 @@
   font-family: 'irroya';
   src: url('/fonts/IRRoyaBold.ttf') url('/fonts/IRRoya.ttf') format('truetype');
 }
-}
 
-@font-face {
-  font-family: 'irroyab';
-  src: url(/fonts/IRRoya.ttf);
-}
+
+
 
 :root {
   --default-font: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
