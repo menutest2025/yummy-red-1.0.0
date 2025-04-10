@@ -18,7 +18,8 @@
 
 @font-face {
   font-family: 'irroya';
-  src: url('/fonts/IRRoyaBold.ttf');
+  src: url('/fonts/IRRoyaBold.ttf') url('/fonts/IRRoya.ttf') format('truetype');
+}
 }
 
 @font-face {
